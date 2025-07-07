@@ -59,6 +59,11 @@ border-radius: 20px;
     position: relative;
     height: 100%;
 }
+.taha{
+    display:flex;
+    align-item:center;
+    flex-direction:column;
+}
 .box-img1{
     border-radius: 20px;
 }
